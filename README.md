@@ -1,8 +1,5 @@
-# HELLO, MY NAME IS HABIBULLAH AKBAR!
-## BUT YOU CAN CALL ME HABIB
+You can call me Habib.
 
-I am a Software Engineer from Indonesia 🇮🇩. Having expertise in web development 🕸️, cloud infrastructure ☁️, machine learning engineering 🤖, and software engineering in general 👨‍💻️. I have a progressive career as a software engineer with solid experience working in some overseas companies 🌐️.
+I have an educational background in CS from Universitas Indonesia, though I did not finish my undergraduate there (drop-out).
 
-If I have to explain myself, I would describe myself as a person who has enough many ideas 💡, creativity 👾, and intuition 💭 to solve unique problems in any situation. That also mentions that I'm being able to be analytical 📊 and logical 🤔 at the moment.
-
-I have a high level of interest and passion in the fields of science 🚀, mathematics 🧮, and of course, technology 🤖. My life motto is "Speak less 😇, talk more 🫶, and do my best 🙌".
+Currently, I'm leading my own AI Research Lab in Indonesia called Kreasof AI. Maintaining a small research team to focus on AI research, and very fortunate already succeeded in publishing our academic AI research papers in international conferences and taking partnerships with both industry peers and local universities.

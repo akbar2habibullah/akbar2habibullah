@@ -1,5 +1,1 @@
-You can call me Habib.
-
-I have an educational background in CS from Universitas Indonesia, though I did not finish my undergraduate there (drop-out).
-
-Currently, I'm leading my own AI Research Lab in Indonesia called [Kreasof AI](https://kreasof.my.id). Maintaining a small research team to focus on AI research, and very fortunate already succeeded in publishing our academic AI research papers in international conferences and taking partnerships with both industry peers and local universities.
+Self-motivated and entrepreneurial AI/ML Researcher with a proven track record of founding and leading an independent research lab. Directed a team of four to publish three academic papers in top-tier conferences within six months. Expert in Generative AI, Large Language Models (LLMs), and Self-Supervised Learning, with first-author publication experience. Seeking to apply deep technical expertise and leadership skills to solve complex AI challenges in a collaborative research environment. 
